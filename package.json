@@ -1,0 +1,29 @@
+{
+  "name": "she-knows",
+  "version": "1.0.0",
+  "description": "She knows is a discord bot which would help you to fight against your addiction to discord!",
+  "main": "src/bot.js",
+  "scripts": {
+    "bot": "nodemon src/bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimit2801/she-knows.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord",
+    "bot"
+  ],
+  "author": "Nimit2801",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/nimit2801/she-knows/issues"
+  },
+  "homepage": "https://github.com/nimit2801/she-knows#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
